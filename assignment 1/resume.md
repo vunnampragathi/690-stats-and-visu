@@ -19,4 +19,15 @@
 * worked as intern at Ramson TechLabs in Internet Of Things.
 * attended workshop on Facebook bot at Elan & NVISION.
 
+## Skills
+* **Programming/Scripting languages** : C, Python, SQL, MATLAB
+* **Databases** : MySQL, Databricks
+* **Data Visualization** : Tableu, MS EXCEL
+* **Tools** : SQL, EXCEL, Tableu, Mongo Db
 
+
+## Achievements
+
+## Social Activities
+
+## Hobbies
