@@ -2,7 +2,8 @@
 
 ## About me
 * **name** : Pragathi Vunnam
-* **contact information** :
+* **contact information** 
+
     *mobile number - +1 667 292 5857
     *mail id - vunnampragathi@gmail.com
     
@@ -11,7 +12,7 @@
 
 ## Education
 * **MS** in **data science**, UMBC, US
-* BTECH** in **Electronics and Communication Engineering**, VR Siddhartha, INDIA
+* **BTECH** in **Electronics and Communication Engineering**, VR Siddhartha, INDIA
 
 ## Experience
 * worked as an intern at railways in signal and telecommunication department.
