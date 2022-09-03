@@ -1,6 +1,8 @@
 # professional resume of pragathi
 
 ## About me
+![IMG_20170709_094423](https://user-images.githubusercontent.com/112585191/188251638-82f9ee76-71aa-488e-a3ad-775d6ce5af29.jpg)
+
 * **name** : Pragathi Vunnam
 * **contact information** 
 
