@@ -4,8 +4,8 @@
 * **name** : Pragathi Vunnam
 * **contact information** 
 
-    *mobile number - +1 667 292 5857
-    *mail id - vunnampragathi@gmail.com
+    **mobile number - +1 667 292 5857
+    **mail id - vunnampragathi@gmail.com
     
 ## career objective
 * To work in an challenging and research oriented environment that will allow me to use my problem solving skills and attention to detail to further develop my abilities in the filed of data science.
