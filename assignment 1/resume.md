@@ -1,5 +1,7 @@
 # professional resume of pragathi
 
+![image](https://user-images.githubusercontent.com/112585191/188331815-2ffbc03f-7c95-428b-bdaf-d818f177007e.png)
+
 ## About me
 
 * **name** : Pragathi Vunnam
@@ -28,7 +30,15 @@
 
 
 ## Achievements
+* awarded runner prize for Tennicoit and Throeball events held in the school
+* Round 1 winner in NEC
+* Participated in district level grneral knowledge competetion
+* Awarded 1st prize in Atisaya Student Cultural Club
 
 ## Social Activities
+* volunteer for the programs organized in my secondary school
 
 ## Hobbies
+* playing badmintn
+* Cooking
+* drawing
