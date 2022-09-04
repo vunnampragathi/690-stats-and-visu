@@ -1,6 +1,6 @@
 # professional resume of pragathi
 
-![image](https://user-images.githubusercontent.com/112585191/188331815-2ffbc03f-7c95-428b-bdaf-d818f177007e.png=50*50)
+![image](https://user-images.githubusercontent.com/112585191/188331815-2ffbc03f-7c95-428b-bdaf-d818f177007e.png|width=100)
 
 ## About me
 
